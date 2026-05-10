@@ -1,0 +1,14 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* 隐藏底部 GitHub Pages 提示 */
+.site-footer-credits {
+  display: none;
+}
+
+/* 如果还想隐藏仓库链接等底部信息，也可以加这个 */
+.site-footer-owner {
+  display: none;
+}

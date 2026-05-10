@@ -8,7 +8,22 @@
   display: none;
 }
 
-/* 如果还想隐藏仓库链接等底部信息，也可以加这个 */
 .site-footer-owner {
   display: none;
+}
+
+/* 修改顶部区域颜色 */
+.page-header {
+  background-image: linear-gradient(120deg, #123c7a, #2a7f62);
+}
+
+/* 修改顶部标题 */
+.project-name {
+  font-size: 3rem;
+}
+
+/* 修改顶部副标题 */
+.project-tagline {
+  font-size: 1.3rem;
+  opacity: 0.95;
 }

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Welcome
+title: Yifei Cai
 ---
 
 # Welcome to Yifei Cai's Academic Website

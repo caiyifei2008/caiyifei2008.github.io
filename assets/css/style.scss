@@ -3,27 +3,26 @@
 
 @import "{{ site.theme }}";
 
-/* 隐藏底部 GitHub Pages 提示 */
+/* 顶部标题居中加大 */
+h1 {
+  font-size: 3rem;
+  text-align: center;
+  margin-top: 1rem;
+}
+
+/* 副标题居中 */
+h1 + p, .project-tagline {
+  font-size: 1.3rem;
+  text-align: center;
+  opacity: 0.85;
+}
+
+/* 隐藏 GitHub Pages footer */
 .site-footer-credits {
   display: none;
 }
 
-.site-footer-owner {
-  display: none;
-}
-
-/* 修改顶部区域颜色 */
-.page-header {
-  background-image: linear-gradient(120deg, #123c7a, #2a7f62);
-}
-
-/* 修改顶部标题 */
-.project-name {
-  font-size: 3rem;
-}
-
-/* 修改顶部副标题 */
-.project-tagline {
-  font-size: 1.3rem;
-  opacity: 0.95;
+/* 页面模块间距加大 */
+.page section {
+  margin-bottom: 2rem;
 }

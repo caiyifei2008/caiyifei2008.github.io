@@ -4,11 +4,10 @@
 title: Yifei Cai - Academic Website
 description: Personal site showcasing research, publications, and projects
 url: "https://caiyifei2008.github.io"
-baseurl: ""
+baseurl: ""  # 用户站点留空
 
-remote_theme: "mmistakes/minimal-mistakes@4.28.0"
-plugins:
-  - jekyll-remote-theme
+# 使用官方 GitHub Pages 主题：Cayman
+theme: jekyll-theme-cayman
 
 # -------------------------------
 # Author info
@@ -17,7 +16,6 @@ author:
   name: Yifei Cai
   email: your-email@example.com
   affiliation: Iowa State University, Artificial Intelligence & Cybersecurity
-  orcid: "0000-0000-0000-0000"
   github: caiyifei2008
   linkedin: your-linkedin-url
 
@@ -41,14 +39,6 @@ markdown: kramdown
 highlighter: rouge
 
 # -------------------------------
-# Collections for publications (optional)
-# -------------------------------
-collections:
-  publications:
-    output: true
-    permalink: /:collection/:name
-
-# -------------------------------
 # Optional: social links for footer
 # -------------------------------
 social_links:
@@ -56,10 +46,3 @@ social_links:
     url: https://github.com/caiyifei2008
   - name: LinkedIn
     url: https://www.linkedin.com/in/your-linkedin-url/
-  - name: ORCID
-    url: https://orcid.org/0000-0000-0000-0000
-
-# -------------------------------
-# Other settings
-# -------------------------------
-paginate: 5

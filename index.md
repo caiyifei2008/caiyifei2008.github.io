@@ -3,9 +3,12 @@ layout: default
 title: Yifei Cai
 ---
 
-# Welcome to Yifei Cai's Academic Website
+# Yifei Cai
+**Postdoctoral Research Associate at Iowa State University**
 
-I am a Postdoctoral Research Associate at Iowa State University, working on **privacy-preserving machine learning** and **secure Transformer inference**.
+I work on **privacy-preserving machine learning** and **secure Transformer inference**.
+
+---
 
 ## Latest Publications
 - [Paper 1](publications/)

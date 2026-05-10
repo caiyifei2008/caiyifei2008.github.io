@@ -16,4 +16,4 @@ I am a Postdoctoral Research Associate at Iowa State University, working on **pr
 - [Project 2](projects.html)
 
 ## Contact
-Email: your-email@example.com
+Email: yifeic[at]iastate.edu

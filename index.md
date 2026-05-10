@@ -7,16 +7,13 @@ title: Welcome
 
 I am a Postdoctoral Research Associate at Iowa State University, working on **privacy-preserving machine learning** and **secure Transformer inference**.
 
-<!-- Latest Publications -->
 ## Latest Publications
 - [Paper 1](publications.html)
 - [Paper 2](publications.html)
 
-<!-- Projects -->
 ## Projects
 - [Project 1](projects.html)
 - [Project 2](projects.html)
 
-<!-- Contact -->
 ## Contact
 Email: your-email@example.com

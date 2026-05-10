@@ -5,7 +5,7 @@ title: Yifei Cai - Academic Website
 description: Personal site showcasing research, publications, and projects
 url: "https://caiyifei2008.github.io"
 baseurl: ""  # leave empty for user site
-theme: jekyll-theme-minimal  # 可替换为其他 Jekyll 官方主题，如: jekyll-theme-slate
+theme: minimal-mistakes-jekyll  # 可替换为其他 Jekyll 官方主题，如: jekyll-theme-slate
 
 # -------------------------------
 # Author info

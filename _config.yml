@@ -30,11 +30,11 @@ nav:
   - title: Home
     url: /
   - title: Publications
-    url: /publications.html
+    url: /publications/
   - title: Projects
-    url: /projects.html
+    url: /projects/
   - title: Contact
-    url: /contact.html
+    url: /contact/
 
 # -------------------------------
 # Plugins & Markdown

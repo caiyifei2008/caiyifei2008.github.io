@@ -1,27 +1,14 @@
-# -------------------------------
-# Basic site settings
-# -------------------------------
-title: Yifei Cai - Academic Website
+title: Yifei Cai
 description: Postdoctoral Research Associate at Iowa State University
-url: "https://caiyifei2008.github.io"
-baseurl: ""  # 用户站点留空
-
-# 使用官方 GitHub Pages 主题：Cayman
 theme: jekyll-theme-cayman
 
-# -------------------------------
-# Author info
-# -------------------------------
 author:
   name: Yifei Cai
   email: your-email@example.com
-  affiliation: Iowa State University, Artificial Intelligence & Cybersecurity
+  affiliation: Iowa State University, AI & Cybersecurity
   github: caiyifei2008
   linkedin: your-linkedin-url
 
-# -------------------------------
-# Navigation / Pages
-# -------------------------------
 nav:
   - title: Home
     url: /
@@ -32,17 +19,5 @@ nav:
   - title: Contact
     url: /contact/
 
-# -------------------------------
-# Plugins & Markdown
-# -------------------------------
 markdown: kramdown
 highlighter: rouge
-
-# -------------------------------
-# Optional: social links for footer
-# -------------------------------
-social_links:
-  - name: GitHub
-    url: https://github.com/caiyifei2008
-  - name: LinkedIn
-    url: https://www.linkedin.com/in/your-linkedin-url/

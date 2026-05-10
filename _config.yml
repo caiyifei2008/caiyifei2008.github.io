@@ -1,3 +1,63 @@
-theme: jekyll-theme-minimal    # 选择主题，可换成其他 Jekyll 主题
+# -------------------------------
+# Basic site settings
+# -------------------------------
 title: Yifei Cai - Academic Website
 description: Personal site showcasing research, publications, and projects
+url: "https://caiyifei2008.github.io"
+baseurl: ""  # leave empty for user site
+theme: jekyll-theme-minimal  # 可替换为其他 Jekyll 官方主题，如: jekyll-theme-slate
+
+# -------------------------------
+# Author info
+# -------------------------------
+author:
+  name: Yifei Cai
+  email: your-email@example.com
+  affiliation: Iowa State University, Artificial Intelligence & Cybersecurity
+  orcid: "0000-0000-0000-0000" # 可选
+  github: caiyifei2008
+  linkedin: your-linkedin-url  # 可选
+
+# -------------------------------
+# Navigation / Pages
+# -------------------------------
+# 用于顶部导航栏链接
+nav:
+  - title: Home
+    url: /
+  - title: Publications
+    url: /publications.html
+  - title: Projects
+    url: /projects.html
+  - title: Contact
+    url: /contact.html
+
+# -------------------------------
+# Plugins & Markdown
+# -------------------------------
+markdown: kramdown
+highlighter: rouge
+
+# -------------------------------
+# Optional: Collections for publications
+# -------------------------------
+collections:
+  publications:
+    output: true
+    permalink: /:collection/:name
+
+# -------------------------------
+# Optional: social links for footer
+# -------------------------------
+social_links:
+  - name: GitHub
+    url: https://github.com/caiyifei2008
+  - name: LinkedIn
+    url: https://www.linkedin.com/in/your-linkedin-url/
+  - name: ORCID
+    url: https://orcid.org/0000-0000-0000-0000
+
+# -------------------------------
+# Other settings
+# -------------------------------
+paginate: 5  # 如果你打算写博客文章

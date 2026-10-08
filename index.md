@@ -73,10 +73,10 @@ title: Yifei Cai
     </article>
 
     <article class="pub-item">
-      <div class="pub-kicker">arXiv 2026</div>
-      <h3>DegreeSpar: Structured Degree Sparsity for Efficient Secure Transformer Inference</h3>
-      <p><strong>Yifei Cai</strong>, Zhuoran Li, Xiaozuo Shen, Hongyi Wu, and Chunsheng Xin.</p>
-      <p><a href="https://arxiv.org/abs/2609.32204" target="_blank" rel="noopener">arXiv</a></p>
+      <div class="pub-kicker">ICML 2026</div>
+      <h3>DF-LoGiT: Data-Free Logic-Gated Backdoor Attacks in Vision Transformers</h3>
+      <p>Xiaozuo Shen, <strong>Yifei Cai</strong>, Rui Ning, Chunsheng Xin, and Hongyi Wu.</p>
+      <p><a href="https://proceedings.mlr.press/v306/shen26a.html" target="_blank" rel="noopener">Paper</a></p>
     </article>
 
     <article class="pub-item">

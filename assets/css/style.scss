@@ -238,6 +238,41 @@ body {
   line-height: 1.5;
 }
 
+.publication-entry {
+  display: grid;
+  grid-template-columns: 3.2rem minmax(0, 1fr);
+  column-gap: 0.55rem;
+  align-items: start;
+  margin: 0 0 1.25rem;
+}
+
+.publication-number {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+  font-weight: 600;
+  color: var(--ink);
+  white-space: nowrap;
+}
+
+.publication-body {
+  min-width: 0;
+  line-height: 1.5;
+}
+
+.publication-title {
+  font-weight: 700;
+  margin-bottom: 0.12rem;
+}
+
+.publication-venue {
+  font-style: italic;
+  margin: 0.08rem 0;
+}
+
+.dissertation-entry {
+  margin-top: 0.15rem;
+}
+
 .site-footer {
   border-top: 1px solid var(--line);
   padding-top: 1.5rem;
@@ -277,5 +312,10 @@ body {
 
   .section-heading {
     display: block;
+  }
+
+  .publication-entry {
+    grid-template-columns: 2.75rem minmax(0, 1fr);
+    column-gap: 0.45rem;
   }
 }

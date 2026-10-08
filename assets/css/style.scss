@@ -112,7 +112,7 @@ body {
 }
 
 .hero {
-  padding: 1.9rem 0 0.95rem;
+  padding: 1.9rem 0 0.7rem;
 }
 
 .eyebrow {
@@ -139,13 +139,19 @@ body {
   margin: 0;
 }
 
-.hero-actions {
+.home-toolbar {
+  position: sticky;
+  top: 0;
+  z-index: 120;
   display: flex;
   justify-content: space-between;
   align-items: center;
   gap: 1rem;
-  margin-top: 1rem;
-  padding-bottom: 0.55rem;
+  padding: 0.65rem 0 0.7rem;
+  border-bottom: 1px solid var(--line);
+  background: rgba(255, 255, 255, 0.97);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
 }
 
 .hero-links {
@@ -196,6 +202,10 @@ body {
   background: transparent;
   backdrop-filter: none;
   -webkit-backdrop-filter: none;
+}
+
+.home-toolbar + .section {
+  border-top: 0;
 }
 
 .section {
@@ -348,7 +358,7 @@ body {
     grid-template-columns: 1fr;
   }
 
-  .hero-actions {
+  .home-toolbar {
     align-items: flex-start;
     flex-direction: column;
   }
@@ -376,12 +386,16 @@ body {
     padding: 0.7rem 0;
   }
 
+  .home-toolbar {
+    padding: 0.55rem 0 0.6rem;
+  }
+
   .home-nav {
     padding: 0;
   }
 
   .hero {
-    padding: 1.5rem 0 1rem;
+    padding: 1.5rem 0 0.75rem;
   }
 
   .section {

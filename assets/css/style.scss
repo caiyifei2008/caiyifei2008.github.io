@@ -10,11 +10,12 @@
   --panel: #f7f9fb;
   --accent: #1f4f7a;
   --accent-soft: #eaf1f7;
+  --outer-bg: #f4f6f8;
 }
 
 body {
   color: var(--ink);
-  background: #ffffff;
+  background: var(--outer-bg);
   font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   line-height: 1.6;
 }
@@ -25,8 +26,11 @@ body {
 
 .main-content {
   max-width: 1080px;
+  min-height: 100vh;
   padding: 1.6rem 2rem 4rem;
   font-size: 1rem;
+  background: #ffffff;
+  box-shadow: 0 0 28px rgba(24, 33, 47, 0.04);
 }
 
 .main-content h1,
@@ -290,8 +294,13 @@ body {
 }
 
 @media (max-width: 720px) {
+  body {
+    background: #ffffff;
+  }
+
   .main-content {
     padding: 0.9rem 1.15rem 3rem;
+    box-shadow: none;
   }
 
   .site-nav {

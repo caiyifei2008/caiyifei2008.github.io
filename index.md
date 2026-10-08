@@ -9,6 +9,7 @@ title: Yifei Cai
   <p class="role">Postdoctoral Research Associate · Iowa State University</p>
   <p class="lead">I build secure, private, and efficient AI systems, with a focus on privacy-preserving machine learning, secure inference, and efficient foundation models.</p>
   <div class="hero-links">
+    <a href="#" aria-disabled="true" onclick="return false;" title="CV coming soon">CV</a>
     <a href="mailto:yifeic@iastate.edu">Email</a>
     <a href="https://scholar.google.com/citations?user=zouk6jUAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>
     <a href="/publications/">Publications</a>

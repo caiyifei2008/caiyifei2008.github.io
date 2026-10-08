@@ -21,13 +21,11 @@ title: Yifei Cai
   <a href="/research/">Research</a>
   <a href="/publications/">Publications</a>
   <a href="/teaching/">Teaching</a>
-  <a href="/contact/">Contact</a>
 </nav>
 
 <section class="section">
   <h2>About</h2>
-  <p>I am a Postdoctoral Research Associate at Iowa State University. My research lies at the intersection of <strong>AI security and privacy</strong>, <strong>privacy-preserving machine learning</strong>, and <strong>efficient AI systems</strong>.</p>
-  <p>I develop model and system techniques that reduce the cost of privacy-preserving computation, spanning HE-friendly neural architectures, cryptography-aware optimization, secure Transformer inference, and privacy-preserving foundation-model systems.</p>
+  <p>I am a Postdoctoral Research Associate at Iowa State University working at the intersection of <strong>AI security and privacy</strong>, <strong>privacy-preserving machine learning</strong>, and <strong>efficient AI systems</strong>. I develop model and system techniques that reduce the cost of privacy-preserving computation, spanning HE-friendly neural architectures, cryptography-aware optimization, secure Transformer inference, and privacy-preserving foundation-model systems.</p>
 </section>
 
 <section class="section">
@@ -95,14 +93,8 @@ title: Yifei Cai
   </div>
 </section>
 
-<section class="section split-section">
-  <div>
-    <h2>Teaching & Mentoring</h2>
-    <p>My teaching interests include artificial intelligence, machine learning, computer security, privacy-preserving computation, and efficient AI systems.</p>
-    <a class="text-link" href="/teaching/">Teaching interests →</a>
-  </div>
-  <div>
-    <h2>Contact</h2>
-    <p>For research collaboration or academic inquiries, email me at <a href="mailto:yifeic@iastate.edu">yifeic@iastate.edu</a>.</p>
-  </div>
+<section class="section">
+  <h2>Teaching & Mentoring</h2>
+  <p>My teaching interests include artificial intelligence, machine learning, computer security, privacy-preserving computation, and efficient AI systems.</p>
+  <a class="text-link" href="/teaching/">Teaching interests →</a>
 </section>

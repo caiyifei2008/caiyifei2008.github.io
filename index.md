@@ -27,7 +27,7 @@ title: Yifei Cai
 <section class="section">
   <h2>About</h2>
   <p>I am a Postdoctoral Research Associate at Iowa State University. My research lies at the intersection of <strong>AI security and privacy</strong>, <strong>privacy-preserving machine learning</strong>, and <strong>efficient AI systems</strong>.</p>
-  <p>I develop model and system techniques that reduce the cost of privacy-preserving computation, from HE-friendly neural architectures and structured model optimization to secure Transformer and foundation-model inference.</p>
+  <p>I develop model and system techniques that reduce the cost of privacy-preserving computation, spanning HE-friendly neural architectures, cryptography-aware optimization, secure Transformer inference, and privacy-preserving foundation-model systems.</p>
 </section>
 
 <section class="section">
@@ -59,26 +59,30 @@ title: Yifei Cai
 
   <div class="pub-list">
     <article class="pub-item">
+      <div class="pub-kicker">IEEE EuroS&amp;P 2026</div>
+      <h3>SecDTD: Dynamic Token Drop for Secure Transformers Inference</h3>
+      <p><strong>Yifei Cai</strong>, Zhuoran Li, Yizhou Feng, Qiao Zhang, Hongyi Wu, Danella Zhao, Chunsheng Xin.</p>
+      <p><a href="https://arxiv.org/abs/2603.13670" target="_blank" rel="noopener">Paper</a></p>
+    </article>
+
+    <article class="pub-item">
       <div class="pub-kicker">IEEE SaTML 2026</div>
       <h3>Towards Zero Rotation and Beyond: Architecting Neural Networks for Fast Secure Inference with Homomorphic Encryption</h3>
       <p><strong>Yifei Cai</strong>, Yizhou Feng, Qiao Zhang, Chunsheng Xin, Hongyi Wu.</p>
-      <p>Introduces StriaNet, an HE-tailored neural architecture designed to reduce costly ciphertext rotations.</p>
       <p><a href="https://arxiv.org/abs/2601.21287" target="_blank" rel="noopener">Paper</a></p>
     </article>
 
     <article class="pub-item">
-      <div class="pub-kicker">IEEE EuroS&amp;P 2026</div>
-      <h3>SecDTD: Dynamic Token Drop for Secure Transformers Inference</h3>
-      <p><strong>Yifei Cai</strong>, Zhuoran Li, Yizhou Feng, Qiao Zhang, Hongyi Wu, Danella Zhao, Chunsheng Xin.</p>
-      <p>Develops secure dynamic token dropping to reduce Transformer inference cost while preserving accuracy.</p>
-      <p><a href="https://arxiv.org/abs/2603.13670" target="_blank" rel="noopener">Paper</a></p>
+      <div class="pub-kicker">arXiv 2026</div>
+      <h3>DegreeSpar: Structured Degree Sparsity for Efficient Secure Transformer Inference</h3>
+      <p><strong>Yifei Cai</strong>, Zhuoran Li, Xiaozuo Shen, Hongyi Wu, Chunsheng Xin.</p>
+      <p><a href="https://arxiv.org/abs/2609.32204" target="_blank" rel="noopener">Paper</a></p>
     </article>
 
     <article class="pub-item">
       <div class="pub-kicker">ACM ASIA CCS 2024</div>
       <h3>MOSAIC: A Prune-and-Assemble Approach for Efficient Model Pruning in Privacy-Preserving Deep Learning</h3>
       <p><strong>Yifei Cai</strong>, Qiao Zhang, Rui Ning, Chunsheng Xin, Hongyi Wu.</p>
-      <p>Introduces cryptography-aware prune-and-assemble optimization for efficient privacy-preserving deep learning.</p>
       <p><a href="https://doi.org/10.1145/3634737.3637680" target="_blank" rel="noopener">Paper</a></p>
     </article>
 
@@ -86,7 +90,6 @@ title: Yifei Cai
       <div class="pub-kicker">ACM ASIA CCS 2022</div>
       <h3>Hunter: HE-Friendly Structured Pruning for Efficient Privacy-Preserving Deep Learning</h3>
       <p><strong>Yifei Cai</strong>, Qiao Zhang, Rui Ning, Chunsheng Xin, Hongyi Wu.</p>
-      <p>Introduces HE-friendly structured pruning that targets cryptographically expensive model structures.</p>
       <p><a href="https://doi.org/10.1145/3488932.3517401" target="_blank" rel="noopener">Paper</a></p>
     </article>
   </div>

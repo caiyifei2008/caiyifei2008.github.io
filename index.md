@@ -11,7 +11,6 @@ title: Yifei Cai
   <div class="hero-links">
     <a href="mailto:yifeic@iastate.edu">Email</a>
     <a href="https://scholar.google.com/citations?user=zouk6jUAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>
-    <a href="https://github.com/caiyifei2008" target="_blank" rel="noopener">GitHub</a>
     <a href="/publications/">Publications</a>
   </div>
 </div>

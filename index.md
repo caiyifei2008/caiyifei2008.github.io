@@ -56,7 +56,7 @@ title: Yifei Cai
 
   <div class="pub-list">
     <article class="pub-item">
-      <div class="pub-kicker">IEEE EuroS&amp;P 2026</div>
+      <div class="pub-kicker">IEEE Euro S&amp;P 2026</div>
       <h3>SecDTD: Dynamic Token Drop for Secure Transformers Inference</h3>
       <p><strong>Yifei Cai</strong>, Zhuoran Li, Yizhou Feng, Qiao Zhang, Hongyi Wu, Danella Zhao, and Chunsheng Xin.</p>
       <p><a href="https://doi.org/10.1109/EuroSP68448.2026.00050" target="_blank" rel="noopener">DOI</a></p>

@@ -1,21 +1,24 @@
 title: Yifei Cai
-description: Postdoctoral Research Associate at Iowa State University
+description: Secure, private, and efficient AI systems
+
 theme: jekyll-theme-cayman
+
+show_downloads: false
 
 author:
   name: Yifei Cai
-  email: your-email@example.com
-  affiliation: Iowa State University, AI & Cybersecurity
+  affiliation: Iowa State University
   github: caiyifei2008
-  linkedin: your-linkedin-url
 
 nav:
   - title: Home
     url: /
+  - title: Research
+    url: /research/
   - title: Publications
     url: /publications/
-  - title: Projects
-    url: /projects/
+  - title: Teaching
+    url: /teaching/
   - title: Contact
     url: /contact/
 

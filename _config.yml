@@ -7,8 +7,10 @@ show_downloads: false
 
 author:
   name: Yifei Cai
+  email: yifeic@iastate.edu
   affiliation: Iowa State University
   github: caiyifei2008
+  scholar: https://scholar.google.com/citations?user=zouk6jUAAAAJ&hl=en
 
 nav:
   - title: Home

@@ -3,19 +3,6 @@ layout: default
 title: Yifei Cai
 ---
 
-<div class="hero">
-  <div class="eyebrow">AI Security & Privacy · Privacy-Preserving ML · Secure & Efficient AI Systems</div>
-  <h1>Yifei Cai</h1>
-  <p class="role">Postdoctoral Research Associate · Iowa State University</p>
-  <p class="lead">I build secure, private, and efficient AI systems, with a focus on privacy-preserving machine learning, secure inference, and efficient foundation models.</p>
-  <div class="hero-links">
-    <a href="#" aria-disabled="true" onclick="return false;" title="CV coming soon">CV</a>
-    <a href="mailto:yifeic@iastate.edu">Email</a>
-    <a href="https://scholar.google.com/citations?user=zouk6jUAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>
-    <a href="/publications/">Publications</a>
-  </div>
-</div>
-
 <nav class="site-nav">
   <a href="/">Home</a>
   <a href="/research/">Research</a>
@@ -23,9 +10,21 @@ title: Yifei Cai
   <a href="/teaching/">Teaching</a>
 </nav>
 
+<div class="hero">
+  <div class="eyebrow">AI Security & Privacy · Privacy-Preserving ML · Secure & Efficient AI Systems</div>
+  <h1>Yifei Cai</h1>
+  <p class="role">Postdoctoral Research Associate · Iowa State University</p>
+  <p class="lead">I develop practical privacy-preserving AI by co-designing models, algorithms, and secure computation—from encrypted neural networks to secure Transformer and foundation-model inference.</p>
+  <div class="hero-links">
+    <a class="disabled-link" href="#" aria-disabled="true" onclick="return false;" title="CV coming soon">CV</a>
+    <a href="https://scholar.google.com/citations?user=zouk6jUAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>
+    <a href="mailto:yifeic@iastate.edu">Email</a>
+  </div>
+</div>
+
 <section class="section">
   <h2>About</h2>
-  <p>I am a Postdoctoral Research Associate at Iowa State University working at the intersection of <strong>AI security and privacy</strong>, <strong>privacy-preserving machine learning</strong>, and <strong>efficient AI systems</strong>. I develop model and system techniques that reduce the cost of privacy-preserving computation, spanning HE-friendly neural architectures, cryptography-aware optimization, secure Transformer inference, and privacy-preserving foundation-model systems.</p>
+  <p>I am a Postdoctoral Research Associate at Iowa State University. My work has progressed from HE-friendly pruning and neural architecture design to secure Transformer inference and privacy-preserving foundation-model systems. My long-term goal is to make strong privacy and security guarantees practical for modern AI without sacrificing efficiency or model capability.</p>
 </section>
 
 <section class="section">
@@ -35,16 +34,16 @@ title: Yifei Cai
   </div>
   <div class="research-grid">
     <div class="research-card">
-      <h3>Privacy-Preserving AI</h3>
-      <p>Algorithms and model structures designed around the computational constraints of encrypted and privacy-sensitive inference.</p>
+      <h3>Privacy-Preserving ML</h3>
+      <p>Designing models and learning or inference methods around the computational constraints of HE, MPC, and other privacy-preserving techniques.</p>
     </div>
     <div class="research-card">
       <h3>Secure & Efficient AI Systems</h3>
-      <p>Co-designing models and secure execution to reduce latency, communication, and expensive cryptographic operations.</p>
+      <p>Co-designing model structure, optimization, and secure execution to reduce latency, communication, and cryptographic cost.</p>
     </div>
     <div class="research-card">
-      <h3>Secure Foundation Models</h3>
-      <p>Extending privacy-preserving inference to Transformers and LLMs while minimizing sensitive-state exposure and secure computation.</p>
+      <h3>Secure & Private Foundation Models</h3>
+      <p>Scaling privacy-preserving inference to Transformers and LLMs through selective, structured, and communication-efficient computation.</p>
     </div>
   </div>
 </section>
@@ -95,6 +94,6 @@ title: Yifei Cai
 
 <section class="section">
   <h2>Teaching & Mentoring</h2>
-  <p>My teaching interests include artificial intelligence, machine learning, computer security, privacy-preserving computation, and efficient AI systems.</p>
-  <a class="text-link" href="/teaching/">Teaching interests →</a>
+  <p>My teaching interests span artificial intelligence, machine learning, computer security, privacy-preserving computation, and efficient AI systems.</p>
+  <a class="text-link" href="/teaching/">Teaching & mentoring →</a>
 </section>

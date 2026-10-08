@@ -3,13 +3,6 @@ layout: default
 title: Yifei Cai
 ---
 
-<nav class="site-nav">
-  <a href="/">Home</a>
-  <a href="/research/">Research</a>
-  <a href="/publications/">Publications</a>
-  <a href="/teaching/">Teaching</a>
-</nav>
-
 <div class="hero">
   <div class="eyebrow">AI Security & Privacy · Privacy-Preserving ML · Secure & Efficient AI Systems</div>
   <h1>Yifei Cai</h1>
@@ -21,6 +14,13 @@ title: Yifei Cai
     <a href="https://scholar.google.com/citations?user=zouk6jUAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>
   </div>
 </div>
+
+<nav class="site-nav home-nav">
+  <a href="/">Home</a>
+  <a href="/research/">Research</a>
+  <a href="/publications/">Publications</a>
+  <a href="/teaching/">Teaching</a>
+</nav>
 
 <section class="section">
   <h2>About</h2>

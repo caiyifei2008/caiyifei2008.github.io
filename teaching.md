@@ -13,7 +13,7 @@ permalink: /teaching/
 
 # Teaching & Mentoring
 
-My teaching interests lie across artificial intelligence, machine learning, security, privacy, and computer systems. I am particularly interested in helping students connect core technical foundations with the design constraints of real AI systems.
+My teaching interests lie across artificial intelligence, machine learning, cybersecurity, privacy, and computer systems. I am particularly interested in helping students connect core technical foundations with the design constraints of real AI systems.
 
 ## Teaching Experience
 
@@ -29,9 +29,9 @@ My teaching interests lie across artificial intelligence, machine learning, secu
 
 - Artificial Intelligence
 - Machine Learning and Deep Learning
-- Computer and Network Security
+- Cybersecurity
 - Privacy-Preserving Machine Learning / Secure Computation
-- Efficient AI and ML Systems
+- Secure and Efficient AI Systems
 - Computer Systems
 
 ## Mentoring

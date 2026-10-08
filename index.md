@@ -61,36 +61,36 @@ title: Yifei Cai
     <article class="pub-item">
       <div class="pub-kicker">IEEE EuroS&amp;P 2026</div>
       <h3>SecDTD: Dynamic Token Drop for Secure Transformers Inference</h3>
-      <p><strong>Yifei Cai</strong>, Zhuoran Li, Yizhou Feng, Qiao Zhang, Hongyi Wu, Danella Zhao, Chunsheng Xin.</p>
-      <p><a href="https://arxiv.org/abs/2603.13670" target="_blank" rel="noopener">Paper</a></p>
+      <p><strong>Yifei Cai</strong>, Zhuoran Li, Yizhou Feng, Qiao Zhang, Hongyi Wu, Danella Zhao, and Chunsheng Xin.</p>
+      <p><a href="https://doi.org/10.1109/EuroSP68448.2026.00050" target="_blank" rel="noopener">DOI</a></p>
     </article>
 
     <article class="pub-item">
       <div class="pub-kicker">IEEE SaTML 2026</div>
       <h3>Towards Zero Rotation and Beyond: Architecting Neural Networks for Fast Secure Inference with Homomorphic Encryption</h3>
-      <p><strong>Yifei Cai</strong>, Yizhou Feng, Qiao Zhang, Chunsheng Xin, Hongyi Wu.</p>
-      <p><a href="https://arxiv.org/abs/2601.21287" target="_blank" rel="noopener">Paper</a></p>
+      <p><strong>Yifei Cai</strong>, Yizhou Feng, Qiao Zhang, Chunsheng Xin, and Hongyi Wu.</p>
+      <p><a href="https://doi.org/10.1109/SaTML68715.2026.00056" target="_blank" rel="noopener">DOI</a></p>
     </article>
 
     <article class="pub-item">
       <div class="pub-kicker">arXiv 2026</div>
       <h3>DegreeSpar: Structured Degree Sparsity for Efficient Secure Transformer Inference</h3>
-      <p><strong>Yifei Cai</strong>, Zhuoran Li, Xiaozuo Shen, Hongyi Wu, Chunsheng Xin.</p>
-      <p><a href="https://arxiv.org/abs/2609.32204" target="_blank" rel="noopener">Paper</a></p>
+      <p><strong>Yifei Cai</strong>, Zhuoran Li, Xiaozuo Shen, Hongyi Wu, and Chunsheng Xin.</p>
+      <p><a href="https://arxiv.org/abs/2609.32204" target="_blank" rel="noopener">arXiv</a></p>
     </article>
 
     <article class="pub-item">
-      <div class="pub-kicker">ACM ASIA CCS 2024</div>
+      <div class="pub-kicker">ACM AsiaCCS 2024</div>
       <h3>MOSAIC: A Prune-and-Assemble Approach for Efficient Model Pruning in Privacy-Preserving Deep Learning</h3>
-      <p><strong>Yifei Cai</strong>, Qiao Zhang, Rui Ning, Chunsheng Xin, Hongyi Wu.</p>
-      <p><a href="https://doi.org/10.1145/3634737.3637680" target="_blank" rel="noopener">Paper</a></p>
+      <p><strong>Yifei Cai</strong>, Qiao Zhang, Rui Ning, Chunsheng Xin, and Hongyi Wu.</p>
+      <p><a href="https://doi.org/10.1145/3634737.3637680" target="_blank" rel="noopener">DOI</a></p>
     </article>
 
     <article class="pub-item">
-      <div class="pub-kicker">ACM ASIA CCS 2022</div>
+      <div class="pub-kicker">ACM AsiaCCS 2022</div>
       <h3>Hunter: HE-Friendly Structured Pruning for Efficient Privacy-Preserving Deep Learning</h3>
-      <p><strong>Yifei Cai</strong>, Qiao Zhang, Rui Ning, Chunsheng Xin, Hongyi Wu.</p>
-      <p><a href="https://doi.org/10.1145/3488932.3517401" target="_blank" rel="noopener">Paper</a></p>
+      <p><strong>Yifei Cai</strong>, Qiao Zhang, Rui Ning, Chunsheng Xin, and Hongyi Wu.</p>
+      <p><a href="https://doi.org/10.1145/3488932.3517401" target="_blank" rel="noopener">DOI</a></p>
     </article>
   </div>
 </section>

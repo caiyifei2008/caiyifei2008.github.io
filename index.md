@@ -17,8 +17,8 @@ title: Yifei Cai
   <p class="lead">I develop practical privacy-preserving AI by co-designing models, algorithms, and secure computation—from encrypted neural networks to secure Transformer and foundation-model inference.</p>
   <div class="hero-links">
     <a class="disabled-link" href="#" aria-disabled="true" onclick="return false;" title="CV coming soon">CV</a>
-    <a href="https://scholar.google.com/citations?user=zouk6jUAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>
     <a href="mailto:yifeic@iastate.edu">Email</a>
+    <a href="https://scholar.google.com/citations?user=zouk6jUAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>
   </div>
 </div>
 

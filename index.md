@@ -95,7 +95,9 @@ title: Yifei Cai
 </section>
 
 <section class="section">
-  <h2>Teaching & Mentoring</h2>
+  <div class="section-heading">
+    <h2>Teaching & Mentoring</h2>
+    <a class="text-link" href="/teaching/">Teaching & mentoring →</a>
+  </div>
   <p>I have served as a tutor in the School of Cybersecurity at Old Dominion University, supporting undergraduate and graduate courses in cybersecurity techniques, cyber defense, and advanced topics. My broader teaching interests include artificial intelligence, machine learning, cybersecurity, privacy-preserving computation, and secure and efficient AI systems.</p>
-  <a class="text-link" href="/teaching/">Teaching & mentoring →</a>
 </section>

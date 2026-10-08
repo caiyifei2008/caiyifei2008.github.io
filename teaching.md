@@ -15,6 +15,16 @@ permalink: /teaching/
 
 My teaching interests lie across artificial intelligence, machine learning, security, privacy, and computer systems. I am particularly interested in helping students connect core technical foundations with the design constraints of real AI systems.
 
+## Teaching Experience
+
+**Tutor, School of Cybersecurity, Old Dominion University**  
+*Jan 2023 – Aug 2025*
+
+- CYSE 301 — Cybersecurity Techniques and Operations
+- CYSE 601 — Advanced Cybersecurity Techniques and Operations (graduate-level)
+- CYSE 602 — Advanced Techniques for Cyber Defense (graduate-level)
+- CYSE 695 TPCS — Advanced Cyber Defense Tools (graduate-level)
+
 ## Courses I Am Interested in Teaching
 
 - Artificial Intelligence

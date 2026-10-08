@@ -7,12 +7,12 @@ title: Yifei Cai
   <div class="eyebrow">AI Security & Privacy · Privacy-Preserving ML · Secure & Efficient AI Systems</div>
   <h1>Yifei Cai</h1>
   <p class="role">Postdoctoral Research Associate · Iowa State University</p>
-  <p class="lead">I build secure, private, and efficient AI systems, with a focus on privacy-preserving machine learning, secure inference, efficient foundation models, and cryptography-aware model optimization.</p>
+  <p class="lead">I build secure, private, and efficient AI systems, with a focus on privacy-preserving machine learning, secure inference, and efficient foundation models.</p>
   <div class="hero-links">
+    <a href="mailto:yifeic@iastate.edu">Email</a>
     <a href="https://scholar.google.com/citations?user=zouk6jUAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>
     <a href="https://github.com/caiyifei2008" target="_blank" rel="noopener">GitHub</a>
     <a href="/publications/">Publications</a>
-    <a href="/contact/">Contact</a>
   </div>
 </div>
 
@@ -26,8 +26,8 @@ title: Yifei Cai
 
 <section class="section">
   <h2>About</h2>
-  <p>I am a Postdoctoral Research Associate at Iowa State University working at the intersection of <strong>AI security and privacy</strong>, <strong>privacy-preserving machine learning</strong>, and <strong>efficient AI systems</strong>.</p>
-  <p>My research asks a practical question: <em>how can we make advanced AI models usable under strong privacy and security constraints without making them prohibitively expensive?</em> I approach this problem across the stack, from model architecture and structured optimization to secure inference and privacy-preserving foundation-model systems.</p>
+  <p>I am a Postdoctoral Research Associate at Iowa State University. My research lies at the intersection of <strong>AI security and privacy</strong>, <strong>privacy-preserving machine learning</strong>, and <strong>efficient AI systems</strong>.</p>
+  <p>I develop model and system techniques that reduce the cost of privacy-preserving computation, from HE-friendly neural architectures and structured model optimization to secure Transformer and foundation-model inference.</p>
 </section>
 
 <section class="section">
@@ -38,73 +38,68 @@ title: Yifei Cai
   <div class="research-grid">
     <div class="research-card">
       <h3>Privacy-Preserving AI</h3>
-      <p>Machine learning methods designed for encrypted or privacy-sensitive data, with an emphasis on practical secure computation.</p>
+      <p>Algorithms and model structures designed around the computational constraints of encrypted and privacy-sensitive inference.</p>
     </div>
     <div class="research-card">
       <h3>Secure & Efficient AI Systems</h3>
-      <p>Reducing the latency and communication cost of secure inference through cryptography-aware model and system design.</p>
+      <p>Co-designing models and secure execution to reduce latency, communication, and expensive cryptographic operations.</p>
     </div>
     <div class="research-card">
-      <h3>Efficient Foundation Models</h3>
-      <p>Structured sparsification, adaptive computation, and model optimization for efficient Transformer and foundation-model inference.</p>
-    </div>
-    <div class="research-card">
-      <h3>Trustworthy AI</h3>
-      <p>Building AI systems that preserve privacy, expose controllable computation, and remain deployable in real-world settings.</p>
+      <h3>Secure Foundation Models</h3>
+      <p>Extending privacy-preserving inference to Transformers and LLMs while minimizing sensitive-state exposure and secure computation.</p>
     </div>
   </div>
 </section>
 
 <section class="section">
   <div class="section-heading">
-    <h2>Selected Work</h2>
+    <h2>Selected Publications</h2>
     <a class="text-link" href="/publications/">All publications →</a>
   </div>
 
   <div class="pub-list">
     <article class="pub-item">
-      <div class="pub-kicker">Privacy-preserving deep learning</div>
-      <h3>MOSAIC</h3>
-      <p>Cryptography-aware model optimization for efficient privacy-preserving deep learning, reducing expensive secure computation while preserving predictive performance.</p>
+      <div class="pub-kicker">IEEE SaTML 2026</div>
+      <h3>Towards Zero Rotation and Beyond: Architecting Neural Networks for Fast Secure Inference with Homomorphic Encryption</h3>
+      <p><strong>Yifei Cai</strong>, Yizhou Feng, Qiao Zhang, Chunsheng Xin, Hongyi Wu.</p>
+      <p>Introduces StriaNet, an HE-tailored neural architecture designed to reduce costly ciphertext rotations.</p>
+      <p><a href="https://arxiv.org/abs/2601.21287" target="_blank" rel="noopener">Paper</a></p>
     </article>
 
     <article class="pub-item">
-      <div class="pub-kicker">HE-friendly neural architecture</div>
-      <h3>StriaNet</h3>
-      <p>Efficient neural architectures designed around the computational structure of homomorphic encryption, targeting lower permutation and secure-inference cost.</p>
+      <div class="pub-kicker">IEEE EuroS&amp;P 2026</div>
+      <h3>SecDTD: Dynamic Token Drop for Secure Transformers Inference</h3>
+      <p><strong>Yifei Cai</strong>, Zhuoran Li, Yizhou Feng, Qiao Zhang, Hongyi Wu, Danella Zhao, Chunsheng Xin.</p>
+      <p>Develops secure dynamic token dropping to reduce Transformer inference cost while preserving accuracy.</p>
+      <p><a href="https://arxiv.org/abs/2603.13670" target="_blank" rel="noopener">Paper</a></p>
     </article>
 
     <article class="pub-item">
-      <div class="pub-kicker">Secure Transformer inference</div>
-      <h3>SecDTD</h3>
-      <p>Efficient secure Transformer inference through structured token-level computation reduction and secure execution optimization.</p>
+      <div class="pub-kicker">ACM ASIA CCS 2024</div>
+      <h3>MOSAIC: A Prune-and-Assemble Approach for Efficient Model Pruning in Privacy-Preserving Deep Learning</h3>
+      <p><strong>Yifei Cai</strong>, Qiao Zhang, Rui Ning, Chunsheng Xin, Hongyi Wu.</p>
+      <p>Introduces cryptography-aware prune-and-assemble optimization for efficient privacy-preserving deep learning.</p>
+      <p><a href="https://doi.org/10.1145/3634737.3637680" target="_blank" rel="noopener">Paper</a></p>
     </article>
 
     <article class="pub-item">
-      <div class="pub-kicker">Efficient secure AI</div>
-      <h3>DegreeSpar</h3>
-      <p>Structured sparsification over polynomial degrees, tokens, and model dimensions to jointly reduce nonlinear and linear secure-inference cost.</p>
+      <div class="pub-kicker">ACM ASIA CCS 2022</div>
+      <h3>Hunter: HE-Friendly Structured Pruning for Efficient Privacy-Preserving Deep Learning</h3>
+      <p><strong>Yifei Cai</strong>, Qiao Zhang, Rui Ning, Chunsheng Xin, Hongyi Wu.</p>
+      <p>Introduces HE-friendly structured pruning that targets cryptographically expensive model structures.</p>
+      <p><a href="https://doi.org/10.1145/3488932.3517401" target="_blank" rel="noopener">Paper</a></p>
     </article>
   </div>
 </section>
 
 <section class="section split-section">
   <div>
-    <h2>Current Direction</h2>
-    <p>My current work extends privacy-preserving inference toward modern foundation models, including secure and efficient LLM systems, selective private-state computation, and methods that reduce the amount of sensitive information that must enter expensive secure execution.</p>
-  </div>
-  <div>
     <h2>Teaching & Mentoring</h2>
-    <p>I am interested in teaching courses in artificial intelligence, machine learning, computer security, privacy-preserving computation, and computer systems, and in mentoring students at the intersection of AI and security.</p>
+    <p>My teaching interests include artificial intelligence, machine learning, computer security, privacy-preserving computation, and efficient AI systems.</p>
     <a class="text-link" href="/teaching/">Teaching interests →</a>
   </div>
-</section>
-
-<section class="section contact-strip">
-  <h2>Contact</h2>
-  <p>I am always interested in research conversations and collaboration around secure, private, and efficient AI systems.</p>
-  <div class="hero-links compact">
-    <a href="https://github.com/caiyifei2008" target="_blank" rel="noopener">GitHub</a>
-    <a href="https://scholar.google.com/citations?user=zouk6jUAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>
+  <div>
+    <h2>Contact</h2>
+    <p>For research collaboration or academic inquiries, email me at <a href="mailto:yifeic@iastate.edu">yifeic@iastate.edu</a>.</p>
   </div>
 </section>

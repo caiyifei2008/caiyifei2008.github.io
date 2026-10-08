@@ -14,26 +14,43 @@ permalink: /publications/
 
 # Publications
 
-My work spans privacy-preserving machine learning, secure inference, and efficient AI systems. This page is being consolidated into a complete publication list; the representative research threads below capture the core trajectory of my work.
+For the most up-to-date citation record, see my [Google Scholar profile](https://scholar.google.com/citations?user=zouk6jUAAAAJ&hl=en).
 
-## Representative Research
+## 2026
 
-### MOSAIC
-**Privacy-preserving deep learning · cryptography-aware model optimization**  
-Model optimization for efficient encrypted inference, with a focus on reducing expensive secure computation while retaining model performance.
+**Towards Zero Rotation and Beyond: Architecting Neural Networks for Fast Secure Inference with Homomorphic Encryption**  
+**Yifei Cai**, Yizhou Feng, Qiao Zhang, Chunsheng Xin, Hongyi Wu.  
+*IEEE Conference on Secure and Trustworthy Machine Learning (SaTML), 2026.*  
+[Paper](https://arxiv.org/abs/2601.21287)
 
-### StriaNet
-**HE-friendly neural architecture · efficient secure inference**  
-Neural architecture design that explicitly accounts for the computational structure and cost of homomorphic-encryption-based inference.
+**SecDTD: Dynamic Token Drop for Secure Transformers Inference**  
+**Yifei Cai**, Zhuoran Li, Yizhou Feng, Qiao Zhang, Hongyi Wu, Danella Zhao, Chunsheng Xin.  
+*IEEE European Symposium on Security and Privacy (EuroS&P), 2026.*  
+[Paper](https://arxiv.org/abs/2603.13670)
 
-### SecDTD
-**Secure Transformer inference · structured computation reduction**  
-Methods for reducing secure Transformer latency through structured token-level optimization and efficient secure execution.
+## 2024
 
-### DegreeSpar
-**Structured sparsification · secure and efficient Transformers**  
-Joint optimization over polynomial degree structure, token computation, and model dimensions for reducing secure-inference cost.
+**MOSAIC: A Prune-and-Assemble Approach for Efficient Model Pruning in Privacy-Preserving Deep Learning**  
+**Yifei Cai**, Qiao Zhang, Rui Ning, Chunsheng Xin, Hongyi Wu.  
+*ACM Asia Conference on Computer and Communications Security (ASIA CCS), 2024.*  
+[DOI](https://doi.org/10.1145/3634737.3637680)
 
----
+## 2023
 
-For the most up-to-date publication record, see my [Google Scholar profile](https://scholar.google.com/citations?user=zouk6jUAAAAJ&hl=en).
+**Privacy-Preserving Machine Learning as a Service: Challenges and Opportunities**  
+Qiao Zhang, Tao Xiang, **Yifei Cai**, Zhichao Zhao, Ning Wang, Hongyi Wu.  
+*IEEE Network, 37(6): 214–223, 2023.*  
+[DOI](https://doi.org/10.1109/MNET.127.2200342)
+
+## 2022
+
+**Hunter: HE-Friendly Structured Pruning for Efficient Privacy-Preserving Deep Learning**  
+**Yifei Cai**, Qiao Zhang, Rui Ning, Chunsheng Xin, Hongyi Wu.  
+*ACM Asia Conference on Computer and Communications Security (ASIA CCS), 2022.*  
+[DOI](https://doi.org/10.1145/3488932.3517401)
+
+## Dissertation
+
+**Towards Efficient Privacy-Preserving Deep Learning: HE-Friendly Structures, Flexible Pruning, HE-Efficient Architectures, and Secure Transformer Token Drop**  
+**Yifei Cai**. Ph.D. Dissertation, Old Dominion University, 2025.  
+[Dissertation](https://digitalcommons.odu.edu/ece_etds/609/)

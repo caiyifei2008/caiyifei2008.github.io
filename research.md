@@ -13,24 +13,20 @@ permalink: /research/
 
 # Research
 
-My research program focuses on making advanced AI systems **secure, private, and computationally practical**. I work across model design, optimization, and secure execution, with the long-term goal of enabling strong privacy guarantees without sacrificing the efficiency or capability of modern AI.
+My research program focuses on making advanced AI systems **secure, private, and computationally practical**. I work across model design, optimization, and secure execution to reduce the cost of strong privacy and security guarantees at modern model scale.
 
 ## Privacy-Preserving Machine Learning
 
-I develop learning and inference methods that are designed around the constraints of privacy-preserving computation rather than treating cryptography as an afterthought. This includes homomorphic-encryption-friendly model optimization and architecture design.
+I design models and inference methods around the computational constraints of privacy-preserving techniques such as homomorphic encryption and secure multi-party computation. My work in this area includes HE-friendly structured pruning, cryptography-aware model optimization, and neural architectures tailored to expensive secure operations.
 
 ## Secure and Efficient AI Systems
 
-Secure inference can introduce substantial latency, communication, and nonlinear-computation overhead. My work explores how model structure and secure execution can be co-designed to reduce these costs while maintaining predictive performance.
+Secure inference introduces latency, communication, and nonlinear-computation overhead that cannot be addressed by model compression alone. I study model-system co-design methods that jointly reduce expensive cryptographic operations, structured computation, and communication while preserving predictive performance.
 
-## Efficient Foundation Models
+## Secure and Private Foundation Models
 
-As AI systems move toward large Transformer and foundation models, secure deployment requires reducing unnecessary computation at multiple levels. I study structured sparsification, token- and dimension-level optimization, and adaptive computation for efficient secure inference.
-
-## Privacy-Preserving Foundation Models
-
-My current research extends these ideas toward LLMs and foundation models, including selective private-state computation, secure inference with reduced sensitive-state exposure, and system designs that minimize how much private information must enter expensive secure execution.
+My current and future work extends these ideas to Transformers, LLMs, and foundation models. I am interested in selective and structured private computation, secure inference with reduced sensitive-state exposure, and system designs that minimize how much private information must enter expensive secure execution.
 
 ## Long-Term Direction
 
-My long-term goal is to build a research program at the intersection of **AI security and privacy, ML systems, and efficient computing**: developing algorithms and systems that make privacy-preserving AI practical at modern model scale.
+My long-term goal is to build a research program at the intersection of **AI security and privacy, machine learning systems, and efficient computing**. The central question is how to make privacy-preserving AI practical at the scale and capability of modern foundation models.

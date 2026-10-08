@@ -9,7 +9,6 @@ permalink: /publications/
   <a href="/research/">Research</a>
   <a href="/publications/">Publications</a>
   <a href="/teaching/">Teaching</a>
-  <a href="/contact/">Contact</a>
 </nav>
 
 # Publications

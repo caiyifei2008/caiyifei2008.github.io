@@ -13,7 +13,7 @@ permalink: /publications/
 
 # Publications
 
-For the most up-to-date citation record, see my [Google Scholar profile](https://scholar.google.com/citations?user=zouk6jUAAAAJ&hl=en). My name is shown in **bold** below.
+For the most up-to-date citation record, see my [Google Scholar profile](https://scholar.google.com/citations?user=zouk6jUAAAAJ&hl=en). My name is shown in **bold** below. <span class="publication-note">Acceptance rates are shown where available.</span>
 
 ## Peer-Reviewed Publications
 
@@ -23,7 +23,7 @@ For the most up-to-date citation record, see my [Google Scholar profile](https:/
     <div class="publication-title">SecDTD: Dynamic Token Drop for Secure Transformers Inference</div>
     <div><strong>Yifei Cai</strong>, Zhuoran Li, Yizhou Feng, Qiao Zhang, Hongyi Wu, Danella Zhao, and Chunsheng Xin.</div>
     <div class="publication-venue">IEEE European Symposium on Security and Privacy (EuroS&amp;P), 2026.</div>
-    <div><a href="https://doi.org/10.1109/EuroSP68448.2026.00050">DOI</a></div>
+    <div class="publication-meta"><span class="acceptance-rate">Acceptance rate: 11.7%</span> · <a href="https://doi.org/10.1109/EuroSP68448.2026.00050">DOI</a></div>
   </div>
 </div>
 
@@ -33,7 +33,7 @@ For the most up-to-date citation record, see my [Google Scholar profile](https:/
     <div class="publication-title">Towards Zero Rotation and Beyond: Architecting Neural Networks for Fast Secure Inference with Homomorphic Encryption</div>
     <div><strong>Yifei Cai</strong>, Yizhou Feng, Qiao Zhang, Chunsheng Xin, and Hongyi Wu.</div>
     <div class="publication-venue">IEEE Conference on Secure and Trustworthy Machine Learning (SaTML), 2026.</div>
-    <div><a href="https://doi.org/10.1109/SaTML68715.2026.00056">DOI</a></div>
+    <div class="publication-meta"><span class="acceptance-rate">Acceptance rate: 26%</span> · <a href="https://doi.org/10.1109/SaTML68715.2026.00056">DOI</a></div>
   </div>
 </div>
 
@@ -73,7 +73,7 @@ For the most up-to-date citation record, see my [Google Scholar profile](https:/
     <div class="publication-title">MOSAIC: A Prune-and-Assemble Approach for Efficient Model Pruning in Privacy-Preserving Deep Learning</div>
     <div><strong>Yifei Cai</strong>, Qiao Zhang, Rui Ning, Chunsheng Xin, and Hongyi Wu.</div>
     <div class="publication-venue">ACM Asia Conference on Computer and Communications Security (AsiaCCS), pp. 1034–1048, 2024.</div>
-    <div><a href="https://doi.org/10.1145/3634737.3637680">DOI</a></div>
+    <div class="publication-meta"><span class="acceptance-rate">Acceptance rate: 21%</span> · <a href="https://doi.org/10.1145/3634737.3637680">DOI</a></div>
   </div>
 </div>
 
@@ -103,7 +103,7 @@ For the most up-to-date citation record, see my [Google Scholar profile](https:/
     <div class="publication-title">Hunter: HE-Friendly Structured Pruning for Efficient Privacy-Preserving Deep Learning</div>
     <div><strong>Yifei Cai</strong>, Qiao Zhang, Rui Ning, Chunsheng Xin, and Hongyi Wu.</div>
     <div class="publication-venue">ACM Asia Conference on Computer and Communications Security (AsiaCCS), pp. 931–945, 2022.</div>
-    <div><a href="https://doi.org/10.1145/3488932.3517401">DOI</a></div>
+    <div class="publication-meta"><span class="acceptance-rate">Acceptance rate: 18.4%</span> · <a href="https://doi.org/10.1145/3488932.3517401">DOI</a></div>
   </div>
 </div>
 

@@ -13,7 +13,7 @@ permalink: /publications/
 
 # Publications
 
-For the most up-to-date citation record, see my [Google Scholar profile](https://scholar.google.com/citations?user=zouk6jUAAAAJ&hl=en). My name is shown in **bold** below. <span class="publication-note">Acceptance rates are shown where available.</span>
+For the most up-to-date citation record, see my [Google Scholar](https://scholar.google.com/citations?user=zouk6jUAAAAJ&hl=en). My name is shown in **bold** below. <span class="publication-note">Acceptance rates are shown where available.</span>
 
 ## Peer-Reviewed Publications
 

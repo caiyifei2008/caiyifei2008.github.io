@@ -23,7 +23,7 @@ For the most up-to-date citation record, see my [Google Scholar profile](https:/
     <div class="publication-title">SecDTD: Dynamic Token Drop for Secure Transformers Inference</div>
     <div><strong>Yifei Cai</strong>, Zhuoran Li, Yizhou Feng, Qiao Zhang, Hongyi Wu, Danella Zhao, and Chunsheng Xin.</div>
     <div class="publication-venue">IEEE European Symposium on Security and Privacy (EuroS&amp;P), 2026.</div>
-    <div class="publication-meta"><span class="acceptance-rate">Acceptance rate: 11.7%</span> · <a href="https://doi.org/10.1109/EuroSP68448.2026.00050">DOI</a></div>
+    <div class="publication-meta"><span class="acceptance-rate">Acceptance rate: 17.8%</span> · <a href="https://doi.org/10.1109/EuroSP68448.2026.00050">DOI</a></div>
   </div>
 </div>
 

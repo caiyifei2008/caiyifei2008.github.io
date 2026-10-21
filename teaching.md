@@ -9,33 +9,49 @@ permalink: /teaching/
   <a href="/research/">Research</a>
   <a href="/publications/">Publications</a>
   <a href="/teaching/">Teaching</a>
+  <a href="/Yifei_Cai_CV.pdf" target="_blank" rel="noopener">CV</a>
 </nav>
 
 # Teaching & Mentoring
 
-My teaching interests lie across artificial intelligence, machine learning, cybersecurity, privacy, and computer systems. I am particularly interested in helping students connect core technical foundations with the design constraints of real AI systems.
+I aim to connect foundations in cybersecurity, artificial intelligence, and computer systems with hands-on practice and rigorous research. My experience includes supporting undergraduate and graduate cybersecurity instruction and mentoring Ph.D. students conducting research in AI security and privacy.
 
 ## Teaching Experience
 
 **Tutor, School of Cybersecurity, Old Dominion University**  
-*Jan 2023 – Aug 2025*
+*Jan. 2023 – Aug. 2025*
 
-- CYSE 301 — Cybersecurity Techniques and Operations
-- CYSE 601 — Advanced Cybersecurity Techniques and Operations (graduate-level)
-- CYSE 602 — Advanced Techniques for Cyber Defense (graduate-level)
-- CYSE 695 TPCS — Advanced Cyber Defense Tools (graduate-level)
+I provided supplemental instruction, helped students strengthen their understanding of cybersecurity concepts, and guided hands-on labs and attack-and-defense exercises.
+
+Courses supported:
+
+- **CYSE 301** — Cybersecurity Techniques and Operations (undergraduate)
+- **CYSE 601** — Advanced Cybersecurity Techniques and Operations (graduate)
+- **CYSE 602** — Advanced Techniques for Cyber Defense (graduate)
+- **CYSE 695 TPCS** — Advanced Cyber Defense Tools (graduate)
+
+## Graduate Research Mentoring
+
+**Postdoctoral Research Associate, Department of Computer Science, Iowa State University**  
+*Oct. 2025 – Present*
+
+I mentor Ph.D. students working in AI security and privacy, providing research guidance on **problem formulation, methodology development, and experimental evaluation**. I emphasize clear research questions, careful comparison with prior work, reproducible experiments, and the transition from executing assigned tasks to developing independent research judgment.
 
 ## Courses I Am Interested in Teaching
 
 - Artificial Intelligence
 - Machine Learning and Deep Learning
 - Cybersecurity
-- Privacy-Preserving Machine Learning / Secure Computation
-- Secure and Efficient AI Systems
+- Privacy-Preserving Machine Learning and Secure Computation
+- Secure & Efficient AI Systems
 - Computer Systems
 
-## Mentoring
+## Mentoring Approach
 
-I view research mentoring as a progression toward independence. I emphasize clear problem formulation, technically sound and reproducible experimentation, careful engagement with prior work, and the ability to explain why a result matters beyond a single benchmark.
+I see effective mentoring as a progression toward research independence. Students should learn to justify the importance of a problem, design sound experiments, understand the limits of their results, and communicate their contributions clearly. I value a combination of structured guidance, critical feedback, and growing ownership of research decisions.
 
-I am especially interested in mentoring students who want to work across machine learning, systems, and security, and in helping them develop from executing well-defined tasks to identifying and leading their own research questions.
+## Professional Service
+
+**Journal manuscript reviewing (2023–present).** I have reviewed manuscripts for *IEEE Transactions on Computers*, *IEEE Transactions on Cloud Computing*, *IEEE Transactions on Services Computing*, and *IEEE Transactions on Mobile Computing*.
+
+Additional details of my academic experience are available in my [CV (PDF)](/Yifei_Cai_CV.pdf).

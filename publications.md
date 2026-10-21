@@ -9,6 +9,7 @@ permalink: /publications/
   <a href="/research/">Research</a>
   <a href="/publications/">Publications</a>
   <a href="/teaching/">Teaching</a>
+  <a href="/Yifei_Cai_CV.pdf" target="_blank" rel="noopener">CV</a>
 </nav>
 
 # Publications
@@ -114,7 +115,7 @@ For the most up-to-date citation record, see my [Google Scholar](https://scholar
   <div class="publication-body">
     <div class="publication-title">DegreeSpar: Structured Degree Sparsity for Efficient Secure Transformer Inference</div>
     <div><strong>Yifei Cai</strong>, Zhuoran Li, Xiaozuo Shen, Hongyi Wu, and Chunsheng Xin.</div>
-    <div class="publication-venue">arXiv preprint, 2026.</div>
+    <div class="publication-venue">arXiv preprint, under review, 2026.</div>
     <div><a href="https://arxiv.org/abs/2609.32204">arXiv</a></div>
   </div>
 </div>
@@ -124,7 +125,7 @@ For the most up-to-date citation record, see my [Google Scholar](https://scholar
   <div class="publication-body">
     <div class="publication-title">When Trees Are Not Enough: Learning Mixed-Topology Feature Graphs with Adaptive Graph Sparse Autoencoders</div>
     <div>Xiaozuo Shen, <strong>Yifei Cai</strong>, Tian Tan, Rui Ning, Chunsheng Xin, and Hongyi Wu.</div>
-    <div class="publication-venue">arXiv preprint, 2026.</div>
+    <div class="publication-venue">arXiv preprint, under review, 2026.</div>
     <div><a href="https://arxiv.org/abs/2609.36294">arXiv</a></div>
   </div>
 </div>

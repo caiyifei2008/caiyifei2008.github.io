@@ -26,7 +26,7 @@ The common goal is to make efficiency gains translate into **lower cryptographic
 
 Beyond static model optimization, secure Transformer inference requires efficient handling of dynamic computation, costly nonlinear operations, and communication. I developed [SecDTD (EuroS&P 2026)](https://doi.org/10.1109/EuroSP68448.2026.00050), a dynamic token-dropping approach for secure Transformer inference, achieving up to **4.47× end-to-end acceleration**. Its oblivious median-selection protocol, OMSel, achieves up to **16.9× speedup over Bitonic Sort** for secure token selection.
 
-This work motivates a broader model–protocol–system co-design perspective: optimization decisions should account for the actual secure execution pipeline. Related ongoing directions include structured optimization of nonlinear computation for efficient private Transformers, as explored in the [DegreeSpar preprint](https://arxiv.org/abs/2609.32204).
+This work motivates a broader model–protocol–system co-design perspective: optimization decisions should account for the actual secure execution pipeline. The [DegreeSpar preprint](https://arxiv.org/abs/2609.32204) further investigates structured degree sparsity for efficient secure Transformer inference.
 
 ## Secure & Private Foundation Models
 
@@ -42,6 +42,6 @@ These directions extend my prior work from individual inference optimizations to
 
 ## Collaboration & Proposal Development
 
-I have contributed technical sections to an **NSF cybersecurity research proposal** on cryptography-aware model compression and efficient private inference. I am also developing concepts for an interdisciplinary privacy-preserving AI research platform combining automated secure-model conversion, selective data protection, and distributed edge–cloud computing. These are proposal-development and ongoing research activities, distinct from awarded funding.
+I have contributed technical sections to an **NSF cybersecurity research proposal** on cryptography-aware model compression and efficient private inference. I am also developing concepts for an interdisciplinary privacy-preserving AI research platform combining automated secure-model conversion, selective data protection, and distributed edge–cloud computing.
 
 For a complete publication record and details of my research experience, see [Publications](/publications/) and my [CV (PDF)](/Yifei_Cai_CV.pdf).

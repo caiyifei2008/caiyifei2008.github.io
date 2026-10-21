@@ -4,15 +4,15 @@ title: Yifei Cai
 ---
 
 <div class="hero">
-  <div class="eyebrow">AI Security & Privacy · Privacy-Preserving ML · Secure & Efficient AI Systems</div>
+  <div class="eyebrow">AI Security & Privacy · Efficient Secure Inference · Privacy-Preserving AI Systems</div>
   <h1>Yifei Cai</h1>
   <p class="role">Postdoctoral Research Associate · Iowa State University</p>
-  <p class="lead">I develop practical privacy-preserving AI by co-designing models, algorithms, and secure computation—from encrypted neural networks to secure Transformer and foundation-model inference.</p>
+  <p class="lead">I develop practical privacy-preserving AI systems by co-designing machine learning models and secure computation—from HE-aware model optimization to efficient Transformer inference and selective protection for LLMs.</p>
 </div>
 
 <div class="home-toolbar">
   <div class="hero-links">
-    <a class="disabled-link" href="#" aria-disabled="true" onclick="return false;" title="CV coming soon">CV</a>
+    <a href="/Yifei_Cai_CV.pdf" target="_blank" rel="noopener" title="View curriculum vitae (PDF)">CV</a>
     <a href="mailto:yifeic@iastate.edu">Email</a>
     <a href="https://scholar.google.com/citations?user=zouk6jUAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>
   </div>
@@ -26,7 +26,7 @@ title: Yifei Cai
 
 <section class="section">
   <h2>About</h2>
-  <p>I am a Postdoctoral Research Associate at Iowa State University. My work has progressed from HE-friendly pruning and neural architecture design to secure Transformer inference and privacy-preserving foundation-model systems. My long-term goal is to make strong privacy and security guarantees practical for modern AI without sacrificing efficiency or model capability.</p>
+  <p>I am a Postdoctoral Research Associate in the Department of Computer Science at Iowa State University. My research has progressed from cryptography-aware model pruning and secure-inference-oriented architectures to efficient secure Transformer inference. My current work investigates selective privacy protection for LLMs and practical, reusable secure AI systems. I also mentor Ph.D. students working in AI security and privacy.</p>
 </section>
 
 <section class="section">
@@ -37,15 +37,15 @@ title: Yifei Cai
   <div class="research-grid">
     <div class="research-card">
       <h3>Privacy-Preserving ML</h3>
-      <p>Designing models and learning or inference methods around the computational constraints of HE, MPC, and other privacy-preserving techniques.</p>
+      <p>Cryptography-aware structured pruning and neural architecture design that reduce the cost of homomorphic-encryption-based inference.</p>
     </div>
     <div class="research-card">
       <h3>Secure & Efficient AI Systems</h3>
-      <p>Co-designing model structure, optimization, and secure execution to reduce latency, communication, and cryptographic cost.</p>
+      <p>Accelerating secure Transformer inference through dynamic token dropping, oblivious selection, and model–protocol co-design.</p>
     </div>
     <div class="research-card">
       <h3>Secure & Private Foundation Models</h3>
-      <p>Scaling privacy-preserving inference to Transformers and LLMs through selective, structured, and communication-efficient computation.</p>
+      <p>Exploring selective privacy protection for LLMs while balancing privacy requirements, model utility, and execution cost.</p>
     </div>
   </div>
 </section>
@@ -99,5 +99,5 @@ title: Yifei Cai
     <h2>Teaching & Mentoring</h2>
     <a class="text-link" href="/teaching/">Teaching & mentoring →</a>
   </div>
-  <p>I have served as a tutor in the School of Cybersecurity at Old Dominion University, supporting undergraduate and graduate courses in cybersecurity techniques, cyber defense, and advanced topics. My broader teaching interests include artificial intelligence, machine learning, cybersecurity, privacy-preserving computation, and secure and efficient AI systems.</p>
+  <p>I supported undergraduate and graduate cybersecurity courses at Old Dominion University through supplemental instruction, hands-on labs, and attack-and-defense exercises. In my current postdoctoral role, I mentor Ph.D. students in AI security and privacy, from research problem formulation to experimental evaluation. My teaching interests include AI, machine learning, cybersecurity, and privacy-preserving computation.</p>
 </section>
